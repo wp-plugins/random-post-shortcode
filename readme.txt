@@ -1,15 +1,16 @@
-=== Powie's Random post shortcode ===
+=== Random Post Shortcode ===
 Contributors: PowieT
-Donate link: http://www.powie.de/
-Tags: chat, irc, shortcode
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UST438WYW6HNJ
+Tags: random, post, widget, shortcode
 Requires at least: 2.8
 Tested up to: 3.5
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 
 IRC Chat
 == Description ==
 Insert shortcode [random-post] to a page or post to display a random post from all of your posts.
+Also provides a widget to display the excerpt from a random post (published only).
 
 = Support =
 Support Forum @ [powie.de](http://goo.gl/lfR7B)
@@ -43,7 +44,10 @@ Post a comment on [powie.de Forum](http://forum.powie.de)
 Post it at my Forum: [powie.de Forum](http://forum.powie.de)
 
 == Changelog ==
-= 0.9.0 (15.01.2013) =
+= 1.0.1 (19.01.2013) = 
+* New: Random Post Widget
+
+= 1.0.0 (15.01.2013) =
 * first version with all required stuff by me
 
 == Upgrade Notice ==

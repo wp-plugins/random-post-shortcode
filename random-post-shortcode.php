@@ -1,13 +1,16 @@
 <?php
 /*
-Plugin Name: Powie's Random post shortcode
+Plugin Name: Powie's Random Post shortcode
 Plugin URI: http://www.powie.de/wordpress
-Description: Shortcode <code>[random-post]</code> for displaying a random post
-Version: 1.0.0
+Description: Shortcode <code>[random-post]</code> for displaying a random post, or use the Widget
+Version: 1.0.1
 License: GPLv2
 Author: Thomas Ehrhardt
 Author URI: http://www.powie.de
 */
+
+//call widgets file
+include('random-post-widget.php');
 
 //Shortcode
 add_shortcode('random-post', 'random_post_shortcode');
