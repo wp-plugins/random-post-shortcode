@@ -7,7 +7,8 @@ Tested up to: 3.5
 Stable tag: 1.0.1
 License: GPLv2
 
-IRC Chat
+Random Post Shortcode and Widget
+
 == Description ==
 Insert shortcode [random-post] to a page or post to display a random post from all of your posts.
 Also provides a widget to display the excerpt from a random post (published only).
