@@ -3,7 +3,7 @@ Contributors: PowieT
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UST438WYW6HNJ
 Tags: random, post, widget, shortcode
 Requires at least: 2.8
-Tested up to: 4.0
+Tested up to: 4.2
 Stable tag: 1.0.1
 License: GPLv2
 
